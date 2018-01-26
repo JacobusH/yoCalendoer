@@ -1,0 +1,28 @@
+{
+  "name": "yocalendoer",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacobusH/yoCalendoer"
+  },
+  "author": {
+    "name": "Jacobus Harding",
+    "email": "jacobusvanharding@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacobusH/yoCalendoer/issues"
+  },
+  "main": "yocalendoer.umd.js",
+  "module": "yocalendoer.js",
+  "jsnext:main": "yocalendoer.js",
+  "typings": "yocalendoer.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
